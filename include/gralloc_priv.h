@@ -29,6 +29,7 @@
  */
 
 #include <hardware/gralloc.h>
+#include <linux/s3c-fb.h>
 
 #define GRALLOC_USAGE_PRIVATE_NONSECURE 0x02000000
 
